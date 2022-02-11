@@ -1,2 +1,2 @@
 # kivy
-kivy gráficos em Python
+Iterface gráfica para Python
