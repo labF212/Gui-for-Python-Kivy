@@ -11,4 +11,4 @@ pip3 install kivymd
 
 ##Ícones
 Para vizualizar as lista de ícones disponíveis veja:
-https://github.com/kivymd/KivyMD/blob/master/kivymd/icon_definitions.py
+[https://github.com/kivymd/KivyMD/blob/master/kivymd/icon_definitions.py](https://pictogrammers.com/library/mdi/)
