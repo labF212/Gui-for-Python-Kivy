@@ -1,9 +1,9 @@
 # Kivy e KiviMD
 Iterface gráfica para Python
 
-O kivy é uma interface gráfica para Python que permite a usa utilização também em Android.
+O kivy é uma interface gráfica para Python, que permite a usa utilização, também em Android.
 
-O Kivy MD é um acrescento ao Kivy para usar temas do Material Design da Google.
+O Kivy MD é um acrescento ao Kivy, para usar temas do Material Design da Google.
 
 #Instalação
 pip3 install kivy
