@@ -1,4 +1,4 @@
-# Kivy e KiviMD
+# Kivy e KivyMD
 
 O kivy é uma interface gráfica para Python, que funciona em: Linux, MAC, Android e Windows.
 
