@@ -13,7 +13,7 @@ pip3 install kivymd
 
 # Documentação
 
-(https://kivymd.readthedocs.io/en/latest/components/toolbar/#bottomappbar)
+https://kivymd.readthedocs.io/en/latest/components/toolbar/#bottomappbar
 
 ## Ícones
 
