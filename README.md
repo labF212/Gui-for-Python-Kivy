@@ -10,8 +10,22 @@ pip3 install kivy
 pip3 install kivymd
 
 ## Ícones
+
 Para vizualizar as lista de ícones disponíveis veja:
 [https://github.com/kivymd/KivyMD/blob/master/kivymd/icon_definitions.py](https://pictogrammers.com/library/mdi/)
 
 # Documentação
-[https://kivymd.readthedocs.io/en/latest/components/toolbar/#bottomappbar]
+
+(https://kivymd.readthedocs.io/en/latest/components/toolbar/#bottomappbar)
+
+# KivyGarden
+Projectos de programadores que são um extra para o Kivy.
+https://github.com/orgs/kivy-garden/repositories
+
+Para a instrumentação estes poderão ser úteis:
+- Desenho de gráficos: https://github.com/kivy-garden/garden.matplotlib
+- Radial slider: https://github.com/kivy-garden/radialslider
+[https://raw.githubusercontent.com/kivy-garden/radialslider/develop/doc/images/example.gif]
+(https://raw.githubusercontent.com/kivy-garden/radialslider/develop/doc/images/example.gif)
+-SpeedMeter:
+https://github.com/kivy-garden/speedmeter/tree/master
