@@ -6,7 +6,9 @@ O kivy é uma interface gráfica para Python, que permite a usa utilização, ta
 O Kivy MD é um acrescento ao Kivy, para usar temas do Material Design da Google.
 
 # Instalação
+
 pip3 install kivy
+
 pip3 install kivymd
 
 # Documentação
