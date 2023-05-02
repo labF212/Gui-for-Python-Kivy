@@ -30,3 +30,5 @@ Para a instrumentação estes poderão ser úteis:
 (https://raw.githubusercontent.com/kivy-garden/radialslider/develop/doc/images/example.gif)
 - SpeedMeter:
 https://github.com/kivy-garden/speedmeter/tree/master
+- Botões totativos
+https://github.com/kivy-garden/garden.knob
